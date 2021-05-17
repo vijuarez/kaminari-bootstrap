@@ -20,7 +20,7 @@ Jeweler::Tasks.new do |gem|
   gem.summary = %Q{Kaminari views for Twitter Bootstrap (rails engine)}
   gem.description = %Q{Kaminari views for Twitter Bootstrap (rails engine)}
   gem.email = "maurizio.cas@gmail.com"
-  gem.authors = ["mcasimir"]
+  gem.authors = ["mcasimir", "vijuarez"]
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
